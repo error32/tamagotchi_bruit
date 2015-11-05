@@ -56,7 +56,14 @@ void draw() {
  fill(0); //couleur pupille
  ellipse(-25,-30,8,2);
  ellipse(20,-30,8,2);
- 
+
+
+/* //text insulte here
+fill(255);
+ ellipse(20, 40, 50, 30);
+ fill(0);
+ text("BONDOUR", -10, 30);
+ */
 
 float rbouche2;
 rbouche2 = random(27,29);
